@@ -3,7 +3,7 @@
 [![Twitter: Bhuvan U Kadlas](https://img.shields.io/twitter/follow/BKadlas?style=social)](https://twitter.com/BKadlas)
 
 <div align="center">
-  a href="www.github/2002.com" target="_blank" ><img src="github-banner.png" alt="Bhuvan U Kadlas"></a>
+  <a href="www.github/2002.com" target="_blank" ><img src="github-banner.png" alt="Bhuvan U Kadlas"></a>
   <br><br>
 <a href="https://www.linkedin.com/in/bhuvan-u-kadlas-524b3810b/" target="_blank" >
   <img align="left" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
