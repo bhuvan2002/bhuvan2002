@@ -22,7 +22,7 @@
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px"> -->
 <h1>Hey There! I'm Bhuvan U Kadlas</h1>
 <b><p> About Me: <br>
-I'm a second year pursuing my BTech in Computer Science & Engineering. I solve problems in creative ways. At vidyavardhaka, where I am completing my second year Engineering, I have learned the importance of applying classical strategies to modern-day projects.
+I'm pursuing my BTech in Computer Science & Engineering. I solve problems in creative ways. At vidyavardhaka, where I am completing my third year Engineering, I have learned the importance of applying classical strategies to modern-day projects.
 
 </p>
 <hr>
